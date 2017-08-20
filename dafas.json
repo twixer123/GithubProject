@@ -1,3 +1,4 @@
+.description.panel .value a[href*=".json"] { display: none; }
 {
    "room": "DOPE MUSIC",
    "author": "QUARTZ",
