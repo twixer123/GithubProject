@@ -1,8 +1,7 @@
-.description.panel .value a[href*=".json"] { display: none; }
 {
    "room": "DOPE MUSIC",
    "author": "QUARTZ",
-   "css": "https://rawgit.com/twixer123/GithubProject/master/dafas.json",
+   "css": "https://rawgit.com/twixer123/GithubProject/master/labas.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
