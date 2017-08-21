@@ -2,7 +2,7 @@
   "room": "DOP3 MUSIC #woot",
   "author": "QUARTZ",
   "icon": "https://www.dropbox.com/s/9oc0zbzqezzt6um/LT_Icon.png?dl=1",
-  "css": "https://rawgit.com/SomeRandomFuck/source/master/classic.css",
+  "css": "https://rawgit.com/twixer123/GithubProject/master/labas.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
@@ -27,17 +27,17 @@
         "user": "#8B92A3"
   },
   "images": {
-    "background": "https://cdn.radiant.dj/rcs/bg/2k14lounge.jpg",
+    "background": "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
     "playback": null,
-    "admin": null,
-    "ambassador": null,
-    "host": null,
-    "cohost": null,
-    "manager": null,
-    "bouncer": null,
-    "rdj": null,
-    "subscriber": "http://i.imgur.com/gYyGQel.png",
-    "silversubscriber": "http://i.imgur.com/nFbwvVJ.png"
+       "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "cohost": "http://i1067.photobucket.com/albums/u424/SwarmForum/Original_Images/beecool_red.gif",
+        "manager": "http://s.cdn.gaiaonline.com/images/common/smilies/icon_heart.gif",
+        "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber": null,
+        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
   },
   "autocomplete": [
 
