@@ -1,19 +1,19 @@
 {
-   "room": "DOPE MUSIC",
-   "author": "QUARTZ",
-   "icon": "https://www.dropbox.com/s/9oc0zbzqezzt6um/LT_Icon.png?dl=1",
-   "css": "https://rawgit.com/twixer123/GithubProject/master/labas.css",
-   "rules": {
-        "allowAutorespond": true,
-        "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
-        "allowSmartVote": true,
-        "allowEmotes": true,
-        "allowShowingMehs": true,
-        "forceSmartVote": false
-    },
-   "ccc": {
+  "room": "DOP3 MUSIC #woot",
+  "author": "QUARTZ",
+  "icon": "https://www.dropbox.com/s/9oc0zbzqezzt6um/LT_Icon.png?dl=1",
+  "css": "https://rawgit.com/SomeRandomFuck/source/master/classic.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": false,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+  },
+  "ccc": {
         "admin": "#42A5DC",
         "ambassador": "#84B423",
         "host": "#42A5DC",
@@ -25,23 +25,37 @@
         "silversubscriber": "#A1A6B3",
         "friend": "#B35D88",
         "user": "#8B92A3"
-    },
-    "images": {
-        "background": "http://i.imgur.com/d3TwdRJ.jpg",
-        "playback": null,
-        "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "cohost": "http://i1067.photobucket.com/albums/u424/SwarmForum/Original_Images/beecool_red.gif",
-        "manager": "http://s.cdn.gaiaonline.com/images/common/smilies/icon_heart.gif",
-        "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber": null,
-        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
-    },
-   
-    "emotes": {
-    
-    }
-   
+  },
+  "images": {
+    "background": "http://i.imgur.com/d3TwdRJ.jpg",
+    "playback": null,
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": "http://i.imgur.com/gYyGQel.png",
+    "silversubscriber": "http://i.imgur.com/nFbwvVJ.png"
+  },
+  "autocomplete": [
+
+  ],
+  "emotes": {
+    "fuckyou": "http://i.imgur.com/VO8WLzl.png",
+    "roza": "http://i.imgur.com/AhxdNNV.png",
+    "ssjroza": "http://i.imgur.com/kwMCIhF.png",
+    "xmasroza": "http://i.imgur.com/SgnXxnK.png",
+    "ruski": "http://i.imgur.com/KrTCyUO.png",
+    "sadroza": "http://i.imgur.com/Dh3Vy9P.png",
+    "ddxface": "http://i.imgur.com/LS61A16.png",
+    "ryuk": "http://i.imgur.com/4zc2LKJ.png",
+    "ryuku": "http://i.imgur.com/tAizRWU.png",
+    "4neko": "https://i.imgur.com/2NSEZr3.gif",
+    "kawaiighost": "https://i.imgur.com/TC6h5uy.gif",
+    "petme": "https://i.imgur.com/ZcXheej.gif",
+    "emiliahush": "https://i.imgur.com/MSHrwTZ.gif",
+    "emiliaconfused": "https://i.imgur.com/hDoGSZ5.gif"
+  }
 }
