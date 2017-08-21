@@ -29,7 +29,7 @@
   "images": {
     "background": "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
     "playback": null,
-    "admin": null,
+     "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
     "ambassador": null,
     "host": null,
     "cohost": null,
