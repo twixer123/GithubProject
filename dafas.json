@@ -1,1 +1,12 @@
-ERROR
+
+{
+    "room": "KAROLITE",
+    "author": "HAKERIS",
+    "css": "null",
+    "icon": "null",
+    "images": {
+        "background":"http://i.imgur.com/P0oZrsm.jpg",
+        "playback": "null",
+        "host": "null",
+        "cohost": "null"
+    },
